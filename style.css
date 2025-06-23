@@ -16,6 +16,7 @@ nav {
   position: relative;
   top: 0;
   right: 0.65rem;
+  left: 0.65rem;
   width: 100%;
   z-index: 1000;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
